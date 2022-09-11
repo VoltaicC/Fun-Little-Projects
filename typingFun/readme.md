@@ -1,4 +1,6 @@
-Made this to win a competition in class
+Made this to win a competition in class.
+
+Automatically does your typing test on typing.com VERY FAST
 
 stories.py is just what I copied from https://www.typing.com/bootstrap/lesson/typing/en/385.443.js
 
