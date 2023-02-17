@@ -6,7 +6,7 @@ x = 0
 y = 0
 inside = 0
 #number of points to graph
-dots = 1000
+dots = 100000
 
 plt.axis([0, 2, 0, 2])
 fig = plt.gcf()
