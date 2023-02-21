@@ -1,3 +1,4 @@
+#pyinstaller --noconfirm --onedir --windowed --add-data "c:\users\conno\appdata\local\programs\python\python310\lib\site-packages/customtkinter;customtkinter/"  betterGUIPDF.py
 import PyPDF2
 from tkinter import *
 import customtkinter as ctk
